@@ -1,0 +1,28 @@
+.table,tr,th,td{
+    border: 2px solid rgb(9, 9, 9);
+    
+}
+#th{
+    background-color: rgb(44, 140, 108);
+}
+#td{
+    background-color: rgb(130, 171, 171);
+}
+.amulya{
+    background-color: aquamarine;
+}
+.amulya1{
+    background-color: bisque;
+}
+.amulya2{
+    background-color: bisque;
+}
+.amulya3{
+    background-color: bisque;
+}
+.amulya4{
+    background-color: bisque;
+}
+.amulya5{
+    background-color: bisque;
+}
